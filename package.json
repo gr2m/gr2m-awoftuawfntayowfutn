@@ -9,10 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gr2m/gr2m-awoftuawfntayowfutn.git"
-  },
+  "repository": "github:gr2m/gr2m-awoftuawfntayowfutn",
   "devDependencies": {
     "semantic-release": "^4.3.5"
   }
